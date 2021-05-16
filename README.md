@@ -6,6 +6,7 @@ A simple application that allows a user to save tasks or events for each hour of
 
 ## Screenshot
 
+![Screen Shot 2021-05-16 at 5 34 52 PM](https://user-images.githubusercontent.com/79888659/118413742-d28c4d00-b66e-11eb-9f43-779a6e7c8407.png)
 
 
 ## Usage
